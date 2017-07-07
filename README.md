@@ -1,0 +1,2 @@
+# queryMaster
+Entertainment query engine
